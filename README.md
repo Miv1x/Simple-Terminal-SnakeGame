@@ -1,1 +1,1 @@
-Simple Snake Game in Terminal
+# Simple Snake Game in Terminal
